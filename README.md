@@ -3,7 +3,7 @@
   <p align="center">
     Angular 10.0.4 + Angular CLI + Angular Universal
     <br>
-    Lazy Loading + SSR + PWA + SEO + google Analytics + API REST (Node.js)
+    Lazy Loading + SSR + PWA + google Analytics + API REST (Node.js)
     <br>
     Prototype bootstrap
     <br>
